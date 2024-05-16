@@ -12,6 +12,9 @@ public class addd {
 			System.out.println("the given numer " + n + " is odd");
 		}
 
+		System.out.println("the given numer " + n + " is odd");
+		System.out.println("the given numer " + n + " is odd");
+
 	}
 
 }
